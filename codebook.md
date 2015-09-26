@@ -56,7 +56,7 @@ Refer `README.md` for details how the dataset is generated.
 
 ```{r,echo=FALSE}
 # This block is hidden because it's ugly - generate a data set
-tidy_data <- read.table("tidy_data.txt")
+tidy_data <- read.table("https://github.com/tconnie/GettingAndCleaningDataProject/blob/master/tidy_data.txt")
 tidy_data[50:55,1:4]
 ```
 
