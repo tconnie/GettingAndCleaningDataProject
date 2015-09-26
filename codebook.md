@@ -54,37 +54,25 @@ Refer `README.md` for details how the dataset is generated.
 
 ### Sitting activity
 
-```{r,echo=FALSE}
-# This block is hidden because it's ugly - generate a data set
-tidy_data <- read.table("https://github.com/tconnie/GettingAndCleaningDataProject/blob/master/tidy_data.txt")
-tidy_data[50:55,1:4]
-```
+![output 2](https://github.com/tconnie/GettingAndCleaningDataProject/blob/master/output_2.jpg)
+
 
 ### Standing activity
-```{r,echo=FALSE}
-# This block is hidden because it's ugly - generate a data set
-tidy_data <- read.table("tidy_data.txt")
-tidy_data[80:85,1:4]
-```
+
+![output 3](https://github.com/tconnie/GettingAndCleaningDataProject/blob/master/output_3.jpg)
+
 
 ### Walking activity
-```{r,echo=FALSE}
-# This block is hidden because it's ugly - generate a data set
-tidy_data <- read.table("tidy_data.txt")
-tidy_data[100:105,1:4]
-```
+
+![output 4](https://github.com/tconnie/GettingAndCleaningDataProject/blob/master/output_4.jpg)
+
 
 ### Walking downstair
-```{r,echo=FALSE}
-# This block is hidden because it's ugly - generate a data set
-tidy_data <- read.table("tidy_data.txt")
-tidy_data[145:150,1:4]
-```
+
+![output 5](https://github.com/tconnie/GettingAndCleaningDataProject/blob/master/output_5.jpg)
+
 
 ### Walking upstair
-```{r,echo=FALSE}
-# This block is hidden because it's ugly - generate a data set
-tidy_data <- read.table("tidy_data.txt")
-tidy_data[155:160,1:4]
-```
+
+![output 6](https://github.com/tconnie/GettingAndCleaningDataProject/blob/master/output_6.jpg)
 
