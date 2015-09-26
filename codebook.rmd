@@ -53,7 +53,7 @@ Refer `README.md` for details how the dataset is generated.
 ```{r,echo=FALSE}
 # This block is hidden because it's ugly - generate a data set
 tidy_data <- read.table("tidy_data.txt")
-tidy_data[1:5,1:6]
+tidy_data[1:5,1:4]
 ```
 
 
@@ -62,34 +62,34 @@ tidy_data[1:5,1:6]
 ```{r,echo=FALSE}
 # This block is hidden because it's ugly - generate a data set
 tidy_data <- read.table("tidy_data.txt")
-tidy_data[50:55,1:6]
+tidy_data[50:55,1:4]
 ```
 
 ### Standing activity
 ```{r,echo=FALSE}
 # This block is hidden because it's ugly - generate a data set
 tidy_data <- read.table("tidy_data.txt")
-tidy_data[80:85,1:6]
+tidy_data[80:85,1:4]
 ```
 
 ### Walking activity
 ```{r,echo=FALSE}
 # This block is hidden because it's ugly - generate a data set
 tidy_data <- read.table("tidy_data.txt")
-tidy_data[100:105,1:6]
+tidy_data[100:105,1:4]
 ```
 
 ### Walking downstair
 ```{r,echo=FALSE}
 # This block is hidden because it's ugly - generate a data set
 tidy_data <- read.table("tidy_data.txt")
-tidy_data[145:150,1:6]
+tidy_data[145:150,1:4]
 ```
 
 ### Walking upstair
 ```{r,echo=FALSE}
 # This block is hidden because it's ugly - generate a data set
 tidy_data <- read.table("tidy_data.txt")
-tidy_data[155:160,1:6]
+tidy_data[155:160,1:4]
 ```
 
