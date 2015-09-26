@@ -49,7 +49,7 @@ Refer `README.md` for details how the dataset is generated.
 
 ### Laying activity
 
-![output 1](output1.jpg)
+![output 1](https://github.com/tconnie/GettingAndCleaningDataProject/blob/master/output_1.jpg)
 
 
 ### Sitting activity
